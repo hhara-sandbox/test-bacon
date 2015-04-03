@@ -1,0 +1,7 @@
+{
+  "name": "bacon_test",
+  "devDependencies": {
+    "bacon": "~0.7.53",
+    "jquery": "~2.1.3"
+  }
+}
